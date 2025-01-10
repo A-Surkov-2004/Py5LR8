@@ -1,3 +1,10 @@
-![image](https://github.com/user-attachments/assets/1f813fb8-f9a9-4bc9-bc20-ce523fe2dec4)
+Была написана программа, позволяющая визуализировать прогноз погоды по городу Санкт-Петербургу на ближайшее время
 
-![image](https://github.com/user-attachments/assets/18180af2-fe24-40c3-ad90-ce6c20520507)
+Программа выводит диаграмму температуры по датам и времени
+
+![image](https://github.com/user-attachments/assets/c4c50a75-810e-4068-bec4-fe098fdb63cc)
+
+
+А также диаграмму перепадов температур в течение суток.
+
+![image](https://github.com/user-attachments/assets/cbcec76c-ae71-415f-ad17-25f81bc13a3c)
